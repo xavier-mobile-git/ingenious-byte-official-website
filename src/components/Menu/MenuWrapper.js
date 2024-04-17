@@ -5,7 +5,6 @@ import Menu from "./Menu";
 
 function MenuWrapper() {
   const handleScroll = () => {
-    console.log(window.scrollY);
     if (window.scrollY > 200) {
       setIsMenuTransparent(false);
     } else {
