@@ -2,9 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-.full-page {
-  background: linear-gradient(to bottom, #370b6f, #00429b, #006dba, #0095ce, #2dbcdc);
-}
+/* .full-page { */
+  /* background: linear-gradient(to bottom, #370b6f, #00429b, #006dba, #0095ce, #2dbcdc); */
+/* } */
 
 .home-section {
   background: linear-gradient(to bottom, #370b6f, #00429b, #006dba, #0095ce, #2dbcdc);
