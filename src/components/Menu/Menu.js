@@ -80,12 +80,12 @@ function Menu({ isMenuTransparent }) {
             关于我们
          </a>
 
-         <a className={linkStyle} href="#footer">
-            联系我们
-         </a>
-
          <a className={linkStyle} href="/#consultation">
             预约咨询
+         </a>
+
+         <a className={linkStyle} href="#footer">
+            联系我们
          </a>
 
          <a className={linkStyle} href="/JobPosition">
