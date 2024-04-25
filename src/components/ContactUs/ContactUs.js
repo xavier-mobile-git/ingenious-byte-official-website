@@ -35,8 +35,7 @@ function ContactUs() {
                <div className="w-[50%] flex flex-col text-center">
                   <span className="text-2xl font-bold">预约咨询</span>
                   <span className="mt-4 indent-8 text-left">
-                     我们提供单次20分钟的咨询服务，咨询服务费为39
-                     CNY。请先填写您及公司的基本信息，完成支付后，会为您跳转到预约窗口与我们的服务专员预约咨询时间。
+                     我们提供付费的咨询服务。请先填写您及公司的基本信息，完成支付后，会为您跳转到预约窗口与我们的服务专员预约咨询时间。
                   </span>
                   <form onSubmit={handleSubmit} className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
                      <input
